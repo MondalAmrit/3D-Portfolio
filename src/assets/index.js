@@ -28,6 +28,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import codsoft from "./company/codsoft.jpg";
+import wsa from "./company/wsa.jpeg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -63,6 +64,7 @@ export {
   starbucks,
   tesla,
   codsoft,
+  wsa,
   carrent,
   jobit,
   tripguide,

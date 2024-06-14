@@ -20,6 +20,7 @@ import {
     // tesla,
     // shopify,
     codsoft,
+    wsa,
     // carrent,
     // jobit,
     // tripguide,
@@ -119,59 +120,59 @@ import {
   ];
   
   const experiences = [
-    // {
-    //   title: "React.js Developer",
-    //   company_name: "Starbucks",
-    //   icon: starbucks,
-    //   iconBg: "#383E56",
-    //   date: "March 2020 - April 2021",
-    //   points: [
-    //     "Developing and maintaining web applications using React.js and other related technologies.",
-    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //     "Implementing responsive design and ensuring cross-browser compatibility.",
-    //     "Participating in code reviews and providing constructive feedback to other developers.",
-    //   ],
-    // },
-    // {
-    //   title: "React Native Developer",
-    //   company_name: "Tesla",
-    //   icon: tesla,
-    //   iconBg: "#E6DEDD",
-    //   date: "Jan 2021 - Feb 2022",
-    //   points: [
-    //     "Developing and maintaining web applications using React.js and other related technologies.",
-    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //     "Implementing responsive design and ensuring cross-browser compatibility.",
-    //     "Participating in code reviews and providing constructive feedback to other developers.",
-    //   ],
-    // },
-    {
-      title: "Web Developer Intern",
-      company_name: "CodSoft",
-      icon: codsoft,
-      iconBg: "#383E56",
-      date: "Aug 2023 - Sep 2023",
-      points: [
-        "Developed a responsive Landing Page.",
-        "Developed a personal Portfolio website.",
-        "Developed a functional calculator",
-        "Gained essential and valuable skills from the experience",
-      ],
-    },
-    // {
-    //   title: "Full stack Developer",
-    //   company_name: "Meta",
-    //   icon: meta,
-    //   iconBg: "#E6DEDD",
-    //   date: "Jan 2023 - Present",
-    //   points: [
-    //     "Developing and maintaining web applications using React.js and other related technologies.",
-    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //     "Implementing responsive design and ensuring cross-browser compatibility.",
-    //     "Participating in code reviews and providing constructive feedback to other developers.",
-    //   ],
-    // },
-  ];
+		// {
+		//   title: "React.js Developer",
+		//   company_name: "Starbucks",
+		//   icon: starbucks,
+		//   iconBg: "#383E56",
+		//   date: "March 2020 - April 2021",
+		//   points: [
+		//     "Developing and maintaining web applications using React.js and other related technologies.",
+		//     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+		//     "Implementing responsive design and ensuring cross-browser compatibility.",
+		//     "Participating in code reviews and providing constructive feedback to other developers.",
+		//   ],
+		// },
+		// {
+		//   title: "React Native Developer",
+		//   company_name: "Tesla",
+		//   icon: tesla,
+		//   iconBg: "#E6DEDD",
+		//   date: "Jan 2021 - Feb 2022",
+		//   points: [
+		//     "Developing and maintaining web applications using React.js and other related technologies.",
+		//     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+		//     "Implementing responsive design and ensuring cross-browser compatibility.",
+		//     "Participating in code reviews and providing constructive feedback to other developers.",
+		//   ],
+		// },
+		{
+			title: "Web Developer Intern",
+			company_name: "CodSoft",
+			icon: codsoft,
+			iconBg: "#383E56",
+			date: "Aug 2023 - Sep 2023",
+			points: [
+				"Developed a responsive Landing Page.",
+				"Developed a personal Portfolio website.",
+				"Developed a functional calculator",
+				"Gained essential and valuable skills from the experience",
+			],
+		},
+		{
+			title: "Full Stack Developer Intern",
+			company_name: "Webstack Academy",
+			icon: wsa,
+			iconBg: "#383E56",
+			date: "Feb 2024 - Apr 2024",
+			points: [
+        "Built a full stack home rental and property management web application.",
+        "Used jsonwebtokens for user authentication",
+				"Used cloudinary for media management, stripe for payment gateway and mailtrap for emailing.",
+				"Gained essential and valuable development skills from the experience",
+			],
+		},
+	];
   
   const testimonials = [
     {
